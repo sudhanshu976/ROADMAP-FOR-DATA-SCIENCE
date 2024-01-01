@@ -30,6 +30,7 @@ Embark on a thrilling journey through the world of data science with our compreh
 9. [Machine Learning](#8-machine-learning)
    - [YouTube Tutorials](#8-machine-learning-youtube-tutorials)
 10. [ML WEB APPS using Flask / Streamlit ](#9-flask-and-streamlit)
+11. [ML END TO END PROJECTS](#10-end-to-end-projects)
 
 ## Introduction to Data Science
 
@@ -265,7 +266,37 @@ Streamlit is a powerful tool for creating interactive web applications with mini
 
 ### Note :
 
-**Now make some END-TO-END Machine Learning Web Apps using Flask and Streamlit**
+**Now make some END-TO-END Machine Learning Web Apps using Flask and Streamlit given in 10th Section**
+
+---
+
+## 10. END TO END PROJECTS
+
+Explore real-world machine learning projects that cover the entire project lifecycle, from data preparation to model deployment.
+
+### 1. House Prediction
+
+Predicting house prices is a classic machine learning task. Follow this project tutorial to build and deploy a house price prediction model:
+
+- [Watch House Prediction Project](https://youtu.be/DVxkI1VmpCk?si=ofqV5nFm5utk--Bs)
+
+### 2. Car Price Prediction
+
+Learn how to predict car prices using machine learning techniques. This project takes you through the process of building and evaluating a car price prediction model:
+
+- [Watch Car Price Prediction Project](https://youtu.be/iRCaMnR_bpA?si=qEK8XsQj3WXE6DtZ)
+
+### 3. IPL Runs Predictor
+
+Predicting runs in an IPL match is a challenging and exciting task. Follow this project to build a machine learning model that predicts runs in IPL matches:
+
+- [Watch IPL Runs Predictor Project](https://youtu.be/Ok_zkfWC0gI?si=rtv5cWBZua29butB)
+
+### 4. Other Projects Playlist
+
+Explore a collection of various machine learning projects in this playlist. Each project covers different aspects of machine learning and provides valuable insights:
+
+- [Watch Other Projects Playlist](https://youtube.com/playlist?list=PLfFghEzKVmjvuSA67LszN1dZ-Dd_pkus6&si=q5Rct8OUUgTdepVW)
 
 ---
 
