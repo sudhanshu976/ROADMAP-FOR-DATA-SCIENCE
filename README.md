@@ -7,7 +7,7 @@ Embark on a thrilling journey through the world of data science with our compreh
 ## Table of Contents 📑
 
 1. [Introduction to Data Science](#introduction-to-data-science)
-2. [Python Programming](#python-programming)
+2. [Python Programming](#1.python-programming)
    - [W3Schools Python Tutorial](#w3schools-python-tutorial)
    - [YouTube Tutorials](#youtube-tutorials)
       - [English](#english)
