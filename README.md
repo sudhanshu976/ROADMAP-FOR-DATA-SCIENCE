@@ -1,4 +1,4 @@
-<img src="roadmap.jpeg" alt="Alt text" width="600" height="200">
+<img src="roadmap.jpeg" alt="Alt text" width="1200" height="400">
 
 
 # Data Science Beginner Roadmap 🚀
