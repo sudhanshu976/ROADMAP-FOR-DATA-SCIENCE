@@ -15,6 +15,9 @@ Embark on a thrilling journey through the world of data science with our compreh
 3. [Numpy](#numpy)
    - [W3Schools Numpy Tutorial](#w3schools-numpy-tutorial)
    - [YouTube Tutorials](#numpy-youtube-tutorials)
+4. [Pandas](#pandas)
+   - [W3Schools Pandas Tutorial](#w3schools-pandas-tutorial)
+   - [YouTube Tutorials](#pandas-youtube-tutorials)
 
 ## Introduction to Data Science
 
@@ -73,7 +76,32 @@ Check out this English tutorial on YouTube by Patrick Loaeber , focusing on Nump
 For Hindi speakers, explore this comprehensive Numpy playlist on YouTube. Code it UP provides tutorials in Hindi to help you grasp Numpy concepts effectively.
 
 - **Watch the [Hindi YouTube Tutorial](https://youtube.com/playlist?list=PLmRclvVt5Dtlgy6PordwKtiUr7fwjuhfz&si=tLM-SUFVB_ODaUgF)**
+---
+### Pandas
 
+Pandas is a powerful data manipulation library in Python. It provides data structures like Series and DataFrame, allowing you to work seamlessly with structured data. Here are some resources to start your Pandas journey:
+
+#### W3Schools Pandas Tutorial
+
+W3Schools offers a comprehensive Pandas tutorial covering key functionalities for data manipulation and analysis. Dive into the world of dataframes with Pandas.
+
+**Visit the [W3Schools Pandas Tutorial](https://www.w3schools.com/python/pandas/default.asp)**
+
+#### YouTube Tutorials
+
+##### English
+
+Explore CodeBasics' Pandas playlist on YouTube, focusing on practical applications and use cases. Enhance your data manipulation skills with Pandas.
+
+**Watch CodeBasics' [English Pandas Playlist](https://youtube.com/playlist?list=PLeo1K3hjS3uuASpe-1LjfG5f14Bnozjwy&si=Vjo5sBDLcYx_jnlz)**
+
+##### Hindi
+
+For Hindi speakers, Code with Harry provides a comprehensive Pandas tutorial on YouTube. Dive into data manipulation and analysis with Pandas in Hindi.
+
+- Code with Harry: [Watch Code with Harry Pandas Playlist](https://youtu.be/RhEjmHeDNoA?si=5QvEldEj26KwU0BK)
+
+---
 
 ---
 
