@@ -32,6 +32,7 @@ Embark on a thrilling journey through the world of data science with our compreh
 10. [ML WEB APPS using Flask / Streamlit ](#9-flask-and-streamlit)
 11. [ML END TO END PROJECTS](#10-end-to-end-projects)
 12. [ML-OPS TUTORIAL AND PROJECTS](#11-mlops-tutorial)
+13. [Additional Things to Learn](#12-extra-things-i-learnt)
 
 ## Introduction to Data Science
 
@@ -327,5 +328,37 @@ After gaining a strong foundation in MLOps principles, take the next step by wor
 Join MLOps communities and forums to stay updated on the latest trends, tools, and best practices. Collaborate with other professionals to share experiences and learn from real-world MLOps challenges.
 
 ---
+## 12. Extra Things I Learnt
 
+Explore additional skills and tools that complement your data science journey. Strengthen your knowledge in essential technologies that enhance your capabilities.
+
+### 1. GitHub
+
+Understanding version control is crucial for collaboration and project management. Learn the basics of GitHub with this informative tutorial:
+
+- [Watch GitHub Tutorial](https://youtu.be/Ez8F0nW6S-w?si=qnBsewYWfRFOeIHo)
+
+### 2. Docker
+
+Containerization simplifies deployment and ensures consistency across environments. Dive into Docker with this comprehensive tutorial:
+
+- [Watch Docker Tutorial](https://youtu.be/WNUCAPKa44Y?si=6TzIzUgRaTiHJF3u)
+
+### 3. Basic SQL
+
+A fundamental skill for data scientists, SQL is used for database querying and management. Get started with basic SQL concepts in this tutorial:
+
+- [Watch Basic SQL Tutorial](https://youtu.be/hlGoQC332VM?si=4PyXP_l500OCfyaY)
+
+### 4. Basic HTML and CSS for Web Apps
+
+Enhance your ability to create interactive web applications. Learn the basics of HTML and CSS with this hands-on tutorial:
+
+- [Watch HTML and CSS Tutorial](https://youtu.be/G3e-cpL7ofc?si=juhzlCnr6isBS47A)
+
+**Pro Tip:**
+These additional skills will complement your data science expertise and make you a well-rounded professional. Consider applying these skills to enhance your data science projects and create end-to-end solutions.
+
+---
+---
 Happy learning and coding! 🚀
