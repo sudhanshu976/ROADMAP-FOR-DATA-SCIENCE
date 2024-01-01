@@ -1,4 +1,4 @@
-# Data Science Roadmap 🚀
+# Data Science Beginner Roadmap 🚀
 
 Welcome to the Data Science Roadmap repository! 🌐
 
