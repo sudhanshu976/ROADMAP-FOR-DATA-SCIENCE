@@ -48,43 +48,6 @@ For Hindi speakers, Campus X and Code with Harry offer comprehensive playlists o
 
 ---
 
-### Projects
-
-As you progress through your Python learning journey, applying your skills to real-world projects is essential. Here are some beginner-friendly projects to get you started:
-
-1. [Project 1: Project Name](project_link)
-   - Brief description.
-
-2. [Project 2: Project Name](project_link)
-   - Brief description.
-
-...
-
----
-
-### Additional Resources
-
-- [Resource 1 Name](resource_link)
-  - Brief description.
-
-- [Resource 2 Name](resource_link)
-  - Brief description.
-
-...
-
----
-
-### How to Use This Roadmap
-
-This roadmap is organized into different sections, each focusing on a key aspect of data science. Begin with the basics and progress through the roadmap at your own pace. Each section provides resources, tutorials, and projects to help you solidify your understanding.
-
-**Note:** If you're new to GitHub, check out the [GitHub Handbook](https://guides.github.com/introduction/git-handbook/) for a quick guide on using this platform.
-
----
-
-### Contribution Guidelines
-
-We encourage contributions from the community! If you have suggestions for improvements, additional resources, or want to fix an issue, feel free to submit a pull request. Check out the [contribution guidelines](CONTRIBUTING.md) for more information.
 
 ---
 
