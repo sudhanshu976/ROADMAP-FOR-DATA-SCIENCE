@@ -25,8 +25,8 @@ Embark on a thrilling journey through the world of data science with our compreh
    - [YouTube Tutorials](#feature-engineering-youtube-tutorials)
 7. [Feature Selection](#feature-selection)
    - [YouTube Tutorials](#feature-selection-youtube-tutorials)
-8. [Statistics](#staistics)
-   - [YouTube Tutorials](#staistics-youtube-tutorials)
+8. [Statistics](#statistics)
+   - [YouTube Tutorials](#statistics-youtube-tutorials)
 
 ## Introduction to Data Science
 
