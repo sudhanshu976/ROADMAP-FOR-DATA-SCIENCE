@@ -21,6 +21,9 @@ Embark on a thrilling journey through the world of data science with our compreh
 5. [Data Visualization](#data-visualization)
    - [Matplotlib](#matplotlib)
    - [Seaborn](#seaborn)
+6. [Feature Engineering](#feature-engineering)
+   - [YouTube Tutorials](#feature-engineering-youtube-tutorials)
+
 
 
 ## Introduction to Data Science
@@ -152,6 +155,25 @@ For Hindi speakers, WsCube Tech provides a comprehensive Seaborn tutorial on You
 
 ### NOTE :
 **MAKE SURE TO DO SOME DATA ANALYSIS PROJECTS USING PYTHON , NUMPY , PANDAS , MATPLOTLIB and SEABORN**
+
+---
+### Feature Engineering
+
+Feature Engineering is a critical step in the data preprocessing pipeline. It involves transforming raw data into a format that enhances the performance of machine learning models. Explore the following Feature Engineering tutorials:
+
+#### YouTube Tutorials
+
+##### English
+
+Krish Naik's YouTube playlist on Feature Engineering provides in-depth insights and practical examples in English. Learn valuable techniques to enhance your data features.
+
+- Krish Naik: [Watch Krish Naik's Feature Engineering Playlist](https://youtube.com/playlist?list=PLZoTAELRMXVPwYGE2PXD3x0bfKnR0cJjN&si=lTSJv2mEwkEHljJo)
+
+##### Hindi
+
+For Hindi speakers, Campus X offers a comprehensive Feature Engineering tutorial on YouTube. Dive into the intricacies of feature engineering in Hindi.
+
+- Campus X: [Watch Campus X's Feature Engineering Playlist](https://youtube.com/playlist?list=PLON7HclXUNvRf9xxqxY8LDXAgXa8Z_7vK&si=7r0uuJLXyHCk8NGa)
 
 ---
 
