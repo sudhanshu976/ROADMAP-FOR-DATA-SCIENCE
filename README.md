@@ -1,3 +1,5 @@
+![ROADMAP](roadmap.jpeg)
+
 # Data Science Beginner Roadmap 🚀
 
 Welcome to the Data Science Roadmap repository! 🌐
