@@ -192,7 +192,7 @@ Feature Selection is a crucial step in the data preprocessing pipeline, aiming t
 ---
 Certainly! Here are two more sections for your Data Science Roadmap:
 
-## 7. Statistics
+### Statistics
 
 Statistics is the foundation of data science, providing essential tools for data analysis and interpretation. Explore the following Statistics tutorials:
 
