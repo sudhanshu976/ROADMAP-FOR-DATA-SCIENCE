@@ -27,6 +27,8 @@ Embark on a thrilling journey through the world of data science with our compreh
    - [YouTube Tutorials](#feature-selection-youtube-tutorials)
 8. [Statistics](#7-statistics)
    - [YouTube Tutorials](#statistics-youtube-tutorials)
+9. [Machine Learning](#8-machine-learning)
+   - [YouTube Tutorials](#machine-learning-youtube-tutorials)
 
 ## Introduction to Data Science
 
