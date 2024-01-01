@@ -179,11 +179,15 @@ For Hindi speakers, Campus X offers a comprehensive Feature Engineering tutorial
 
 ---
 
-## 6. Feature Selection
+## Feature Selection
 
-Krish Naik's YouTube playlist on Feature Engineering provides in-depth insights and practical examples in English. Learn valuable techniques to enhance your data features.
+Feature Selection is a crucial step in the data preprocessing pipeline, aiming to choose the most relevant features for model training. Explore the following Feature Selection tutorials:
 
-- Krish Naik: [Watch Krish Naik's Feature Engineering Playlist](https://youtube.com/playlist?list=PLZoTAELRMXVPgjwJ8VyRoqmfNs2CJwhVH&si=UcmAs2vdEzYlj_rg)
+#### YouTube Tutorials
+
+- **English**
+  - Krish Naik's YouTube playlist provides in-depth insights and practical examples on Feature Selection in English.
+  - [Watch Krish Naik's Feature Selection Playlist](https://youtube.com/playlist?list=PLZoTAELRMXVPgjwJ8VyRoqmfNs2CJwhVH&si=UcmAs2vdEzYlj_rg)
 
 ---
 
