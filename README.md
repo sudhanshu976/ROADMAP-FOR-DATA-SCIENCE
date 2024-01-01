@@ -18,6 +18,10 @@ Embark on a thrilling journey through the world of data science with our compreh
 4. [Pandas](#pandas)
    - [W3Schools Pandas Tutorial](#w3schools-pandas-tutorial)
    - [YouTube Tutorials](#pandas-youtube-tutorials)
+5. [Data Visualization](#data-visualization)
+   - [Matplotlib](#matplotlib)
+   - [Seaborn](#seaborn)
+
 
 ## Introduction to Data Science
 
@@ -100,6 +104,49 @@ Explore CodeBasics' Pandas playlist on YouTube, focusing on practical applicatio
 For Hindi speakers, Code with Harry provides a comprehensive Pandas tutorial on YouTube. Dive into data manipulation and analysis with Pandas in Hindi.
 
 - Code with Harry: [Watch Code with Harry Pandas Playlist](https://youtu.be/RhEjmHeDNoA?si=5QvEldEj26KwU0BK)
+
+---
+## 4. Data Visualization
+
+Data Visualization is a crucial aspect of data science. It allows you to represent complex data in a visual format, making it easier to interpret and analyze. Explore the following data visualization libraries:
+
+### a. Matplotlib
+
+Matplotlib is a versatile and widely used plotting library in Python. It provides a variety of charts, plots, and visualizations. Here are some resources to get started with Matplotlib:
+
+- [W3Schools Matplotlib Tutorial](https://www.w3schools.com/python/matplotlib_intro.asp)
+
+#### YouTube Tutorials
+
+##### English
+
+Explore WsCube Tech's Matplotlib playlist on YouTube. Learn to create stunning visualizations with Matplotlib in English.
+
+- WsCube Tech: [Watch WsCube Tech's Matplotlib Playlist](https://youtube.com/playlist?list=PLc20sA5NNOvpG9WlvjY7XTDWPAFBNgv_N&si=c4lNS9oIKM_LobOR)
+
+##### Hindi
+
+For Hindi speakers, WsCube Tech provides a comprehensive Matplotlib tutorial on YouTube. Enhance your data visualization skills in Hindi.
+
+- WsCube Tech: [Watch WsCube Tech's Matplotlib Playlist](https://youtube.com/playlist?list=PLjVLYmrlmjGcC0B_FP3bkJ-JIPkV5GuZR&si=mgivwf2UhzVtFyBJ)
+
+### b. Seaborn
+
+Seaborn is a statistical data visualization library based on Matplotlib. It simplifies the process of creating informative and attractive visualizations. Explore Seaborn with the following resources:
+
+#### YouTube Tutorials
+
+##### English
+
+Check out WsCube Tech's Seaborn playlist on YouTube. Dive into advanced data visualization with Seaborn in English.
+
+- WsCube Tech: [Watch WsCube Tech's Seaborn Playlist](https://youtube.com/playlist?list=PLc20sA5NNOvq8CldEUOZEHnoVIk4svXuZ&si=4qCuUnqX0SNqaomg)
+
+##### Hindi
+
+For Hindi speakers, WsCube Tech provides a comprehensive Seaborn tutorial on YouTube. Explore statistical data visualization with Seaborn in Hindi.
+
+- WsCube Tech: [Watch WsCube Tech's Seaborn Playlist](https://youtube.com/playlist?list=PLjVLYmrlmjGfhqSO3rF4n02rrj9w2Ch2C&si=9AftKtcNiabEEiM2)
 
 ---
 
