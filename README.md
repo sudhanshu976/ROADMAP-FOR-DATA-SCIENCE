@@ -77,7 +77,7 @@ For Hindi speakers, explore this comprehensive Numpy playlist on YouTube. Code i
 
 - **Watch the [Hindi YouTube Tutorial](https://youtube.com/playlist?list=PLmRclvVt5Dtlgy6PordwKtiUr7fwjuhfz&si=tLM-SUFVB_ODaUgF)**
 ---
-### Pandas
+## 3. Pandas
 
 Pandas is a powerful data manipulation library in Python. It provides data structures like Series and DataFrame, allowing you to work seamlessly with structured data. Here are some resources to start your Pandas journey:
 
