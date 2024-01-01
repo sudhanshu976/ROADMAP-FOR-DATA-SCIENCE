@@ -29,6 +29,7 @@ Embark on a thrilling journey through the world of data science with our compreh
    - [YouTube Tutorials](#7-statistics-youtube-tutorials)
 9. [Machine Learning](#8-machine-learning)
    - [YouTube Tutorials](#8-machine-learning-youtube-tutorials)
+10. [ML WEB APPS](#9-flask-and-streamlit)
 
 ## Introduction to Data Science
 
@@ -231,6 +232,34 @@ Machine Learning is a core component of data science, allowing computers to lear
 **DO SOME BASIC ML PROJECTS FROM YOUTUBE AND KAGGLE**
 
 --- 
+## 9. FLASK and Streamlit
+
+Mastering web frameworks like Flask and Streamlit is essential for deploying and showcasing your data science projects. Choose one or explore both to enhance your skills.
+
+### a. Flask
+
+Flask is a lightweight web application framework in Python. It's widely used for building web applications and APIs. Explore the following resources to master Flask:
+
+#### YouTube Tutorials
+
+- **English**
+  - Krish Naik's YouTube playlist provides a comprehensive guide to Flask in English.
+  - [Watch Krish Naik's Flask Playlist](https://youtube.com/playlist?list=PLZoTAELRMXVPBaLN3e-uoVRR9hlRFRfUc&si=ZJcGFBHePDlKql1H)
+
+- **Hindi**
+  - Krish Naik's YouTube video covers Flask concepts in Hindi.
+  - [Watch Krish Naik's Hindi Flask Video](https://youtu.be/KF-rDqQfqz0?si=G6_dYpAg53oFURnJ)
+
+
+### b. Streamlit
+
+Streamlit is a powerful tool for creating interactive web applications with minimal effort. It's particularly popular in the data science community for building interactive dashboards. Explore the following resources to master Streamlit:
+
+#### YouTube Tutorials
+
+- **English**
+  - Data Professor's YouTube playlist covers Streamlit in English.
+  - [Watch Data Professor's Streamlit Playlist](https://youtube.com/playlist?list=PLtqF5YXg7GLmCvTswG32NqQypOuYkPRUE&si=0bYer4_eolU4VB5_)
 
 
 
