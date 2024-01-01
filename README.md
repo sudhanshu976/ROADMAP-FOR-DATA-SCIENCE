@@ -29,7 +29,7 @@ Embark on a thrilling journey through the world of data science with our compreh
    - [YouTube Tutorials](#7-statistics-youtube-tutorials)
 9. [Machine Learning](#8-machine-learning)
    - [YouTube Tutorials](#8-machine-learning-youtube-tutorials)
-10. [ML WEB APPS](#9-flask-and-streamlit)
+10. [ML WEB APPS using Flask / Streamlit ](#9-flask-and-streamlit)
 
 ## Introduction to Data Science
 
