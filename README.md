@@ -12,8 +12,6 @@ Embark on a thrilling journey through the world of data science with our compreh
    - [YouTube Tutorials](#youtube-tutorials)
       - [English](#english)
       - [Hindi](#hindi)
-   - [Projects](#projects)
-   - [Additional Resources](#additional-resources)
 
 ## Introduction to Data Science
 
@@ -23,7 +21,7 @@ Data Science is a multidisciplinary field that combines expertise from statistic
 
 ---
 
-### Python Programming
+## 1.  Python Programming
 
 Python is a fundamental programming language in the data science ecosystem. Mastering Python is crucial for data manipulation, analysis, and machine learning. Here are some resources to kickstart your Python journey:
 
