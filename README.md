@@ -150,6 +150,7 @@ For Hindi speakers, WsCube Tech provides a comprehensive Seaborn tutorial on You
 
 ---
 
+### NOTE :
 **MAKE SURE TO DO SOME DATA ANALYSIS PROJECTS USING PYTHON , NUMPY , PANDAS , MATPLOTLIB and SEABORN**
 
 ---
