@@ -23,6 +23,8 @@ Embark on a thrilling journey through the world of data science with our compreh
    - [Seaborn](#seaborn)
 6. [Feature Engineering](#feature-engineering)
    - [YouTube Tutorials](#feature-engineering-youtube-tutorials)
+7. [Feature Selection](#feature-selection)
+   - [YouTube Tutorials](#feature-selection-youtube-tutorials)
 
 
 
@@ -174,6 +176,14 @@ Krish Naik's YouTube playlist on Feature Engineering provides in-depth insights 
 For Hindi speakers, Campus X offers a comprehensive Feature Engineering tutorial on YouTube. Dive into the intricacies of feature engineering in Hindi.
 
 - Campus X: [Watch Campus X's Feature Engineering Playlist](https://youtube.com/playlist?list=PLON7HclXUNvRf9xxqxY8LDXAgXa8Z_7vK&si=7r0uuJLXyHCk8NGa)
+
+---
+
+## 6. Feature Selection
+
+Krish Naik's YouTube playlist on Feature Engineering provides in-depth insights and practical examples in English. Learn valuable techniques to enhance your data features.
+
+- Krish Naik: [Watch Krish Naik's Feature Engineering Playlist](https://youtube.com/playlist?list=PLZoTAELRMXVPgjwJ8VyRoqmfNs2CJwhVH&si=UcmAs2vdEzYlj_rg)
 
 ---
 
