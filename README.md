@@ -50,7 +50,7 @@ For Hindi speakers, Campus X and Code with Harry offer comprehensive playlists o
 - Code with Harry: [Watch Code with Harry Playlist](https://youtube.com/playlist?list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg&si=cqX_PjPlWJhux8K3)
 
 ---
-### Numpy
+## 2. Numpy
 
 Numpy is a fundamental library for numerical computing in Python. It provides support for large, multi-dimensional arrays and matrices, along with mathematical functions to operate on these elements. Here are some resources to kickstart your Numpy journey:
 
