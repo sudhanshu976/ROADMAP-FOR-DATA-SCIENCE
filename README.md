@@ -36,7 +36,7 @@ Data Science is a multidisciplinary field that combines expertise from statistic
 
 ---
 
-## 1.  Python Programming
+## 1. Python Programming
 
 Python is a fundamental programming language in the data science ecosystem. Mastering Python is crucial for data manipulation, analysis, and machine learning. Here are some resources to kickstart your Python journey:
 
