@@ -190,5 +190,41 @@ Feature Selection is a crucial step in the data preprocessing pipeline, aiming t
   - [Watch Krish Naik's Feature Selection Playlist](https://youtube.com/playlist?list=PLZoTAELRMXVPgjwJ8VyRoqmfNs2CJwhVH&si=UcmAs2vdEzYlj_rg)
 
 ---
+Certainly! Here are two more sections for your Data Science Roadmap:
+
+## 7. Statistics
+
+Statistics is the foundation of data science, providing essential tools for data analysis and interpretation. Explore the following Statistics tutorials:
+
+#### YouTube Tutorials
+
+- **English**
+  - Krish Naik's YouTube video provides a comprehensive introduction to Statistics in English.
+  - [Watch Krish Naik's Statistics Video](https://youtu.be/LZzq1zSL1bs?si=vvExo9rU-jA7C8vL)
+
+- **Hindi**
+  - Krish Naik's YouTube playlist covers Statistics concepts in Hindi.
+  - [Watch Krish Naik's Hindi Statistics Playlist](https://youtube.com/playlist?list=PLTDARY42LDV6YHSRo669_uDDGmUEmQnDJ&si=s-ztMZ6I_6mWMOzh)
+
+---
+
+## 8. Machine Learning
+
+Machine Learning is a core component of data science, allowing computers to learn from data and make intelligent decisions. Explore the following Machine Learning tutorials:
+
+#### YouTube Tutorials
+
+- **English**
+  - Krish Naik's YouTube video provides an insightful overview of Machine Learning in English.
+  - [Watch Krish Naik's Machine Learning Video](https://youtu.be/JxgmHe2NyeY?si=7Bevyq2ipSDF864Y)
+
+- **Hindi**
+  - Krish Naik's YouTube playlist and Campus X's playlist cover Machine Learning concepts in Hindi.
+  - Krish Naik: [Watch Krish Naik's Hindi Machine Learning Playlist](https://youtube.com/playlist?list=PLTDARY42LDV7WGmlzZtY-w9pemyPrKNUZ&si=LzKbLcje04qmK0ic)
+  - Campus X: [Watch Campus X's Hindi Machine Learning Playlist](https://youtube.com/playlist?list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&si=InW4A5IE0hkmPr7G)
+
+---
+
+
 
 Happy learning and coding! 🚀
