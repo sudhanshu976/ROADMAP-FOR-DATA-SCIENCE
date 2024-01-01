@@ -149,7 +149,9 @@ For Hindi speakers, WsCube Tech provides a comprehensive Seaborn tutorial on You
 - WsCube Tech: [Watch WsCube Tech's Seaborn Playlist](https://youtube.com/playlist?list=PLjVLYmrlmjGfhqSO3rF4n02rrj9w2Ch2C&si=9AftKtcNiabEEiM2)
 
 ---
+
 **MAKE SURE TO DO SOME DATA ANALYSIS PROJECTS USING PYTHON , NUMPY , PANDAS , MATPLOTLIB and SEABORN**
+
 ---
 
 Happy learning and coding! 🚀
