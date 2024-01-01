@@ -12,6 +12,9 @@ Embark on a thrilling journey through the world of data science with our compreh
    - [YouTube Tutorials](#youtube-tutorials)
       - [English](#english)
       - [Hindi](#hindi)
+3. [Numpy](#numpy)
+   - [W3Schools Numpy Tutorial](#w3schools-numpy-tutorial)
+   - [YouTube Tutorials](#numpy-youtube-tutorials)
 
 ## Introduction to Data Science
 
@@ -47,6 +50,29 @@ For Hindi speakers, Campus X and Code with Harry offer comprehensive playlists o
 - Code with Harry: [Watch Code with Harry Playlist](https://youtube.com/playlist?list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg&si=cqX_PjPlWJhux8K3)
 
 ---
+### Numpy
+
+Numpy is a fundamental library for numerical computing in Python. It provides support for large, multi-dimensional arrays and matrices, along with mathematical functions to operate on these elements. Here are some resources to kickstart your Numpy journey:
+
+#### W3Schools Numpy Tutorial
+
+W3Schools offers a comprehensive Numpy tutorial that covers key concepts and functionalities. Dive into the world of numerical computing with Numpy.
+
+**Visit the [W3Schools Numpy Tutorial](https://www.w3schools.com/python/numpy/default.asp)**
+
+#### YouTube Tutorials
+
+##### English
+
+Check out this English tutorial on YouTube by Patrick Loaeber , focusing on Numpy fundamentals and advanced topics. Enhance your data science and numerical computing skills with Numpy.
+
+**Watch the [English YouTube Tutorial](https://youtu.be/9JUAPgtkKpI?si=A7BWfYGfxVt0mal_)**
+
+##### Hindi
+
+For Hindi speakers, explore this comprehensive Numpy playlist on YouTube. Code it UP provides tutorials in Hindi to help you grasp Numpy concepts effectively.
+
+- **Watch the [Hindi YouTube Tutorial](https://youtube.com/playlist?list=PLmRclvVt5Dtlgy6PordwKtiUr7fwjuhfz&si=tLM-SUFVB_ODaUgF)**
 
 
 ---
