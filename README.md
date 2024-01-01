@@ -31,6 +31,7 @@ Embark on a thrilling journey through the world of data science with our compreh
    - [YouTube Tutorials](#8-machine-learning-youtube-tutorials)
 10. [ML WEB APPS using Flask / Streamlit ](#9-flask-and-streamlit)
 11. [ML END TO END PROJECTS](#10-end-to-end-projects)
+12. [ML-OPS TUTORIAL AND PROJECTS](#11-mlops-tutorial)
 
 ## Introduction to Data Science
 
@@ -300,5 +301,31 @@ Explore a collection of various machine learning projects in this playlist. Each
 
 ---
 
+## 11. MLOPS TUTORIAL
+
+Master the art of deploying machine learning models into production with MLOps. Explore tutorials and projects to build a strong foundation and dive into MLOps practices.
+
+### 1. FreeCodeCamp MLOps Tutorial
+
+FreeCodeCamp provides an insightful MLOps tutorial, guiding you through the key concepts and practices of deploying machine learning models:
+
+- [Watch FreeCodeCamp MLOps Tutorial](https://youtu.be/-dJPoLm_gtE?si=hckyLe9Ba8hU4v0G)
+
+### 2. Krish Naik MLOps Tutorial
+
+Krish Naik's MLOps tutorial offers valuable insights into deploying machine learning models efficiently. Learn the essential practices from an experienced data scientist:
+
+- [Watch Krish Naik MLOps Tutorial](https://youtu.be/pxk1Fr33-L4?si=JUjbsOOZeSC2Aeqz)
+
+### Build Your Own MLOps Projects
+
+After gaining a strong foundation in MLOps principles, take the next step by working on your own MLOps projects. Apply your knowledge to deploy machine learning models in real-world scenarios and enhance your skills:
+
+- **Tip:** Start with small projects and gradually move to more complex deployments. Experiment with different tools and platforms to find what works best for your projects.
+
+**Pro Tip:**
+Join MLOps communities and forums to stay updated on the latest trends, tools, and best practices. Collaborate with other professionals to share experiences and learn from real-world MLOps challenges.
+
+---
 
 Happy learning and coding! 🚀
