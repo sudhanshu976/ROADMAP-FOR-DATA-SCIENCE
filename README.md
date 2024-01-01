@@ -226,6 +226,9 @@ Machine Learning is a core component of data science, allowing computers to lear
 
 ---
 
+### Note :
+
+**DO SOME BASIC ML PROJECTS FROM YOUTUBE AND KAGGLE**
 
 
 Happy learning and coding! 🚀
