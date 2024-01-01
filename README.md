@@ -179,7 +179,7 @@ For Hindi speakers, Campus X offers a comprehensive Feature Engineering tutorial
 
 ---
 
-## Feature Selection
+## 6. Feature Selection
 
 Feature Selection is a crucial step in the data preprocessing pipeline, aiming to choose the most relevant features for model training. Explore the following Feature Selection tutorials:
 
