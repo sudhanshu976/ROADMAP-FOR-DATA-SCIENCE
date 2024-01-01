@@ -261,6 +261,13 @@ Streamlit is a powerful tool for creating interactive web applications with mini
   - Data Professor's YouTube playlist covers Streamlit in English.
   - [Watch Data Professor's Streamlit Playlist](https://youtube.com/playlist?list=PLtqF5YXg7GLmCvTswG32NqQypOuYkPRUE&si=0bYer4_eolU4VB5_)
 
+---
+
+### Note :
+
+**Now make some END-TO-END Machine Learning Web Apps using Flask and Streamlit**
+
+---
 
 
 Happy learning and coding! 🚀
